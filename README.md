@@ -1,4 +1,4 @@
-Primera pre-entrega Coderhouse React 44995
+Segunda pre-entrega Coderhouse React 44995
 
 Alumno: Briones Gabriel
 
