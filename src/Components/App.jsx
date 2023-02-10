@@ -1,15 +1,24 @@
+import './App.css'; 
 
-import './App.css';
-//Components
-import { Navbar } from './Navbar/Navbar'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
+//Components 
+import { Navbar } from './Navbar/Navbar';
 import { ItemListContainer } from './ItemListContainer/ItemListContainer';
+import { ItemDetailContainer } from './ItemDetailContainer/ItemDetailContainer';
 
 
 export const App = () => {
   return (
     <>
-      <Navbar nombre={"Jano Sustentable"} />
-      <ItemListContainer greeting={"Próximamente veras nuestros productos"} />
+      <BrowserRouter>
+        <Navbar nombre={"Jano Sustentable"} />
+        <Routes>
+          <Route path='/' element={<ItemListContainer />} />
+          <Route path='/category/:idCategoria' element={<ItemListContainer />} />
+          <Route path='/item/:id' element={<ItemDetailContainer />} />
+        </Routes>
+      </BrowserRouter>
     </>
 
   )
