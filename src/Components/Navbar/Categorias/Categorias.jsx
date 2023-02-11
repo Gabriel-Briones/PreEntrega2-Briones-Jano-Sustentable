@@ -4,7 +4,7 @@ export const Categorias = () => {
         <>
             <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <button className="btn">Conocenos</button>
+                    <button className="btn">Conocenos</button>
                 </a>
                 <ul className="dropdown-menu">
                     <li><a className="dropdown-item" href="#">Sobre Nosotros</a></li>

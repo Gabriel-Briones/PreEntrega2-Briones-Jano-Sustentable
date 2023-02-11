@@ -4,7 +4,7 @@ import { consultarBDD } from "../../utils/funciones"
 import { ItemDetail } from "../ItemDetail/ItemDetail"
 
 export const ItemDetailContainer = () => {
-    const {id} = useParams()
+    const { id } = useParams()
     const [producto, setProducto] = useState([])
 
     useEffect(() => {
@@ -16,7 +16,7 @@ export const ItemDetailContainer = () => {
 
     return (
         <div className="card mb-3 container itemDetail">
-            <ItemDetail prod={producto}/>
+            <ItemDetail prod={producto} />
         </div>
     )
 }
