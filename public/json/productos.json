@@ -2,122 +2,162 @@
     {
         "id": 1,
         "idCategoria": 1,
-        "nombre": "Notebook",
-        "marca": "Lenovo",
-        "modelo": "Y510P",
-        "precio": 60000,
+        "nombre": "Bolsita de Regalo",
+        "marca": "Sentido Botánica",
+        "modelo": "mediana",
+        "precio": 530,
         "stock": 30,
-        "img": "notebook-lenovo.jpg"
+        "img": "ACCESORIOS-BOLSITA-REGALO.jpg"
     },
     {
         "id": 2,
-        "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Xiomi",
-        "modelo": "Mi-9",
-        "precio": 35000,
+        "idCategoria": 1,
+        "nombre": "Cepillo Corporal",
+        "marca": "Sentido Botánica",
+        "modelo": "Mango Largo",
+        "precio": 1600,
         "stock": 20,
-        "img": "xiaomi-mi-9.jpg"
+        "img": "ACCESORIOS-CEPILLO-CORPORAL-MANGO-LARGO.JPG"
     },
     {
         "id": 3,
-        "idCategoria": 3,
-        "nombre": "Smart Tv",
-        "marca": "Novatech",
-        "modelo": "50D1U",
-        "precio": 57000,
+        "idCategoria": 1,
+        "nombre": "Lata Rectangular",
+        "marca": "Sentido Botánica",
+        "modelo": " ",
+        "precio": 2100,
         "stock": 15,
-        "img": "smart-tv-novatech.jpg"
+        "img": "ACCESORIOS-LATA-RECTANGULAR.jpg"
     },
     {
         "id": 4,
-        "idCategoria": 4,
-        "nombre": "Camara ",
-        "marca": "iQual",
-        "modelo": "C40",
-        "precio": 8000,
-        "stock": 30,
-        "img": "camara-iqual.jpg"
+        "idCategoria": 1,
+        "nombre": "Peine ",
+        "marca": "Sentido Botánica",
+        "modelo": "de Viaje",
+        "precio": 1400,
+        "stock": 40,
+        "img": "ACCESORIOS-PEINE-DE-VIAJE.jpg"
     },
     {
         "id": 5,
-        "idCategoria": 4,
-        "nombre": "Mouse",
-        "marca": "Logitech",
-        "modelo": "G502",
-        "precio": 1400,
+        "idCategoria": 2,
+        "nombre": "Bálsamo",
+        "marca": "Sentido Botánica",
+        "modelo": "Labial Cacao",
+        "precio": 850,
         "stock": 7,
-        "img": "mouse-logitech.jpg"
+        "img": "BALSAMO-LABIAL-CACAO.jpg"
     },
     {
         "id": 6,
-        "idCategoria": 4,
-        "nombre": "Auriculares",
-        "marca": "Motorola",
-        "modelo": "Pulse",
-        "precio": 4000,
+        "idCategoria": 2,
+        "nombre": "Bálsamo",
+        "marca": "Sentido Botánica",
+        "modelo": "Labial Rosas",
+        "precio": 800,
         "stock": 20,
-        "img": "motorola-pulse.jpg"
+        "img": "BALSAMO-LABIAL-ROSAS.jpg"
     },
     {
         "id": 7,
         "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Apple",
-        "modelo": "Iphone X Silver",
-        "precio": 250000,
+        "nombre": "Bálsamo",
+        "marca": "Sentido Botánica",
+        "modelo": "Labial Vainilla",
+        "precio": 800,
         "stock": 10,
-        "img": "iphone-x.jpg"
+        "img": "BALSAMO-LABIAL-VAINILLA.jpg"
     },
     {
         "id": 8,
-        "idCategoria": 3,
-        "nombre": "Apple TV",
-        "marca": "Apple ",
-        "modelo": "32 Gb",
-        "precio": 45000,
+        "idCategoria": 2,
+        "nombre": "Bálsamo",
+        "marca": "Sentido Botánica",
+        "modelo": "para Barba",
+        "precio": 800,
         "stock": 30,
-        "img": "apple-tv.jpg"
+        "img": "BALSAMO-PARA-BARBA.jpg"
     },
     {
         "id": 9,
-        "idCategoria": 4,
-        "nombre": "Parlante",
-        "marca": "Kalley",
-        "modelo": "SPK200",
-        "precio": 34000,
+        "idCategoria": 3,
+        "nombre": "Perfume",
+        "marca": "Sentido Botánica",
+        "modelo": "Fresia Silvestre",
+        "precio": 4200,
         "stock": 21,
-        "img": "parlante-kalley.png"
+        "img": "Perfumes-Fresia-Silvestre.jpg"
     },
     {
         "id": 10,
-        "idCategoria": 1,
-        "nombre": "Mac Air",
-        "marca": "Apple",
-        "modelo": "M1 2020",
-        "precio": 13000,
+        "idCategoria": 3,
+        "nombre": "Perfume",
+        "marca": "Sentido Botánica",
+        "modelo": "Frutos del Bosque",
+        "precio": 4200,
         "stock": 25,
-        "img": "mac-air.jpg"
+        "img": "Perfumes-Frutos-del-Bosque.JPG"
     },
     {
         "id": 11,
-        "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Samsung",
-        "modelo": "S20",
-        "precio": 85000,
+        "idCategoria": 3,
+        "nombre": "Perfume",
+        "marca": "Sentido Botánica",
+        "modelo": "Pitanga Cítrica",
+        "precio": 4200,
         "stock": 30,
-        "img": "samsung-s20.jpg"
+        "img": "Perfumes-Pitanga-Citrica.jpg"
     },
     {
         "id": 12,
-        "idCategoria": 1,
-        "nombre": "Notebook",
-        "marca": "HP",
-        "modelo": "Pavilion 15",
-        "precio": 120000,
+        "idCategoria": 4,
+        "nombre": "Acondicionador",
+        "marca": "Sentido Botánica",
+        "modelo": "Suave",
+        "precio": 3100,
+        "stock": 10,
+        "img": "SYA-ACONDICIONADOR.jpg"
+    },
+    {
+        "id": 13,
+        "idCategoria": 4,
+        "nombre": "SHAMPOO",
+        "marca": "Sentido Botánica",
+        "modelo": "EQUILIBRADO",
+        "precio": 2200,
+        "stock": 70,
+        "img": "SYA-SHAMPOO-EQUILIBRADO.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria": 4,
+        "nombre": "SHAMPOO",
+        "marca": "Sentido Botánica",
+        "modelo": "FORTALECEDOR",
+        "precio": 2200,
+        "stock": 15,
+        "img": "SYA-SHAMPOO-FORTALECEDOR.jpg"
+    },
+    {
+        "id": 15,
+        "idCategoria": 4,
+        "nombre": "SHAMPOO",
+        "marca": "Sentido Botánica",
+        "modelo": "GRASO y ANTICASPA",
+        "precio": 2200,
         "stock": 20,
-        "img": "hp-pavilion.jpg"
+        "img": "SYA-SHAMPOO-GRASO-ANTICASPA.jpg"
+    },
+    {
+        "id": 16,
+        "idCategoria": 4,
+        "nombre": "SHAMPOO",
+        "marca": "Sentido Botánica",
+        "modelo": "SECO",
+        "precio": 2200,
+        "stock": 10,
+        "img": "SYA-SHAMPOO-SECO.jpg"
     }
 
 ]
