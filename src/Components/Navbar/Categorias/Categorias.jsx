@@ -10,7 +10,7 @@ export const Categorias = () => {
                     <li><a className="dropdown-item" href="#">Sobre Nosotros</a></li>
                     <li><a className="dropdown-item" href="#">Consejos Sustentables</a></li>
                     <li><hr className="dropdown-divider" /></li>
-                    <li><a className="dropdown-item" href="#">Se parte de Jano</a></li>
+                    <li><a className="dropdown-item" href="#">Se parte de Jano Sustentable</a></li>
                 </ul>
             </li>
             <li className="nav-item dropdown">
@@ -18,10 +18,10 @@ export const Categorias = () => {
                     <button className="btn">Catálogo</button>
                 </a>
                 <ul className="dropdown-menu">
-                    <li><Link className="dropdown-item" to={'/category/1'}>Computadoras</Link></li>
-                    <li><Link className="dropdown-item" to={'/category/2'}>Celulares</Link></li>
-                    <li><Link className="dropdown-item" to={'/category/3'}>Televisores</Link></li>
-                    <li><Link className="dropdown-item" to={'/category/4'}>Electronica</Link></li>
+                    <li><Link className="dropdown-item" to={'/category/1'}>Accesorios</Link></li>
+                    <li><Link className="dropdown-item" to={'/category/2'}>Bálsamos</Link></li>
+                    <li><Link className="dropdown-item" to={'/category/3'}>Perfumes</Link></li>
+                    <li><Link className="dropdown-item" to={'/category/4'}>Shampoo & Acondicionador</Link></li>
                 </ul>
             </li>
         </>
