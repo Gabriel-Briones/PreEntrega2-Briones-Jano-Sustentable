@@ -8,7 +8,6 @@ export const ItemListContainer = () => {
     const { idCategoria } = useParams()
     const [productos, setProductos] = useState([])
 
-    console.log(idCategoria)
     useEffect(() => {
         if (idCategoria) { 
             consultarBDD('../json/productos.json').then(products => {
