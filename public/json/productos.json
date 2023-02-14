@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "idCategoria": "accesorios",
+        "idCategoria": 1,
         "nombre": "Bolsita de Regalo",
         "marca": "Sentido Botánica",
         "modelo": "mediana",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "idCategoria": "accesorios",
+        "idCategoria": 1,
         "nombre": "Cepillo Corporal",
         "marca": "Sentido Botánica",
         "modelo": "Mango Largo",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "idCategoria": "accesorios",
+        "idCategoria": 1,
         "nombre": "Lata Rectangular",
         "marca": "Sentido Botánica",
         "modelo": " ",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "idCategoria": "accesorios",
+        "idCategoria": 1,
         "nombre": "Peine ",
         "marca": "Sentido Botánica",
         "modelo": "de Viaje",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "idCategoria": "balsamos",
+        "idCategoria": 2,
         "nombre": "Bálsamo",
         "marca": "Sentido Botánica",
         "modelo": "Labial Cacao",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "idCategoria": "balsamos",
+        "idCategoria": 2,
         "nombre": "Bálsamo",
         "marca": "Sentido Botánica",
         "modelo": "Labial Rosas",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "idCategoria": "balsamos",
+        "idCategoria": 2,
         "nombre": "Bálsamo",
         "marca": "Sentido Botánica",
         "modelo": "Labial Vainilla",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "idCategoria": "balsamos",
+        "idCategoria": 2,
         "nombre": "Bálsamo",
         "marca": "Sentido Botánica",
         "modelo": "para Barba",
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "idCategoria": "perfumes",
+        "idCategoria": 3,
         "nombre": "Perfume",
         "marca": "Sentido Botánica",
         "modelo": "Fresia Silvestre",
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "idCategoria": "perfumes",
+        "idCategoria": 3,
         "nombre": "Perfume",
         "marca": "Sentido Botánica",
         "modelo": "Frutos del Bosque",
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "idCategoria": "perfumes",
+        "idCategoria": 3,
         "nombre": "Perfume",
         "marca": "Sentido Botánica",
         "modelo": "Pitanga Cítrica",
@@ -111,7 +111,7 @@
     },
     {
         "id": 12,
-        "idCategoria": "shampoo",
+        "idCategoria": 4,
         "nombre": "Acondicionador",
         "marca": "Sentido Botánica",
         "modelo": "Suave",
@@ -121,7 +121,7 @@
     },
     {
         "id": 13,
-        "idCategoria": "shampoo",
+        "idCategoria": 4,
         "nombre": "SHAMPOO",
         "marca": "Sentido Botánica",
         "modelo": "EQUILIBRADO",
@@ -131,7 +131,7 @@
     },
     {
         "id": 14,
-        "idCategoria": "shampoo",
+        "idCategoria": 4,
         "nombre": "SHAMPOO",
         "marca": "Sentido Botánica",
         "modelo": "FORTALECEDOR",
@@ -141,7 +141,7 @@
     },
     {
         "id": 15,
-        "idCategoria": "shampoo",
+        "idCategoria": 4,
         "nombre": "SHAMPOO",
         "marca": "Sentido Botánica",
         "modelo": "GRASO y ANTICASPA",
@@ -151,7 +151,7 @@
     },
     {
         "id": 16,
-        "idCategoria": "shampoo",
+        "idCategoria": 4,
         "nombre": "SHAMPOO",
         "marca": "Sentido Botánica",
         "modelo": "SECO",

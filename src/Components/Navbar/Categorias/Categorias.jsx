@@ -18,10 +18,10 @@ export const Categorias = () => {
                     <button className="btn">Catálogo</button>
                 </a>
                 <ul className="dropdown-menu">
-                    <li><Link className="dropdown-item" to={'/category/accesorios'}>Accesorios</Link></li>
-                    <li><Link className="dropdown-item" to={'/category/balsamos'}>Bálsamos</Link></li>
-                    <li><Link className="dropdown-item" to={'/category/perfumes'}>Perfumes</Link></li>
-                    <li><Link className="dropdown-item" to={'/category/shampoo'}>Shampoo & Acondicionador</Link></li>
+                    <li><Link className="dropdown-item" to={'/category/1'}>Accesorios</Link></li>
+                    <li><Link className="dropdown-item" to={'/category/2'}>Bálsamos</Link></li>
+                    <li><Link className="dropdown-item" to={'/category/3'}>Perfumes</Link></li>
+                    <li><Link className="dropdown-item" to={'/category/4'}>Shampoo & Acondicionador</Link></li>
                 </ul>
             </li>
         </>

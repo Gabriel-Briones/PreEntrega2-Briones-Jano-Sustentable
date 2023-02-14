@@ -1,0 +1,18 @@
+[
+    {
+        "idCategoria": 1,
+        "nombreCat": "accesorios"
+    },
+    {
+        "idCategoria": 2,
+        "nombreCat": "balsamos"
+    },
+    {
+        "idCategoria": 3,
+        "nombreCat": "perfumes"
+    },
+    {
+        "idCategoria": 4,
+        "nombreCat": "shampoo"
+    }
+]
