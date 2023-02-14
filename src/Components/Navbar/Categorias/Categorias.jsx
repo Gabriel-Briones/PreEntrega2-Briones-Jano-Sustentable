@@ -23,7 +23,7 @@ export const Categorias = (props) => {
                 <ul className="dropdown-menu">
                     {
                         props.CategoriasProductos.map((categoria) => {
-                            return <li key={categoria.idCategoria}><Link className="dropdown-item" id="textos__navbar" to={`/category/${categoria.nombreCat}`}>{categoria.nombreCat}</Link></li>
+                            return <li key={categoria.NumeroCategoria}><Link className="dropdown-item" id="textos__navbar" to={`/category/${categoria.nombreCat}`}>{categoria.nombreCat}</Link></li>
                         })
                     }
                 </ul>
